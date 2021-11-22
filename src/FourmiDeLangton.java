@@ -10,7 +10,6 @@ import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
 public class FourmiDeLangton {
-
   // On utilise swing pour l'interface graphique.
   private JFrame frame;
   private JPanel antPanel;
